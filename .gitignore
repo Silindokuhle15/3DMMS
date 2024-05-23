@@ -362,3 +362,7 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /Frames
+/Test.h
+/NewTest.h
+/Sphere
+/SBA/sba-1.6/matlab
